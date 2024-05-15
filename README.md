@@ -27,11 +27,11 @@ This project delves into the NYC Green Taxi Trip Data spanning from January 2022
 
 ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/0be2cde1-8eef-4f80-8a15-09ea3059e893)
 
-3. **Fare Amount:** Trips average a fare of $15.39, with fares ranging from -$350.08 to $2020.20 and most falling between $7.90 and $18.20.
+2. **Fare Amount:** Trips average a fare of $15.39, with fares ranging from -$350.08 to $2020.20 and most falling between $7.90 and $18.20.
 
   ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/b45cd2ba-db49-4f41-a4e4-aa8480a8f012)
 
-5. **Payment Mode:** The majority of transactions (64%) are made with credit cards, followed by cash (36%), with less than 1% involving disputes or no charge.
+3. **Payment Mode:** The majority of transactions (64%) are made with credit cards, followed by cash (36%), with less than 1% involving disputes or no charge.
    
    ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/a9bef1f3-a491-4358-a1d4-822f496b7645)
 
