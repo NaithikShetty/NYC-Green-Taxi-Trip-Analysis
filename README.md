@@ -12,9 +12,11 @@ This project delves into the NYC Green Taxi Trip Data spanning from January 2022
 ## Dataset Characteristics
 
 - **Trip Record Data:** Sourced from the New York City Taxi and Limousine Commission (TLC), this dataset comprises 908,613 recorded trips.
+  
 ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/b843569b-4894-4f1c-8dbf-3d2ff51bb344)
 
 - **Taxi Zone Map Dataset:** Contains 265 records used to correlate location IDs in the main dataset with corresponding NYC boroughs, zones, and service areas.
+  
 ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/afeba543-d5ef-4a71-ad13-3a29f2e3177e)
 
 - **Holiday Dataset:** A custom dataset created to differentiate trips on holidays, regular weekdays, and weekends, comprising 23 recorded holidays.
@@ -22,12 +24,15 @@ This project delves into the NYC Green Taxi Trip Data spanning from January 2022
 ## Initial Data Distribution Analysis
 
 1. **Trip Distance:** The data shows an average trip distance of 78.72 miles, ranging from 0 to 360,068.14 miles, with most trips covering between 1.15 and 3.73 miles.
+
 ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/0be2cde1-8eef-4f80-8a15-09ea3059e893)
 
-2. **Fare Amount:** Trips average a fare of $15.39, with fares ranging from -$350.08 to $2020.20 and most falling between $7.90 and $18.20.
+3. **Fare Amount:** Trips average a fare of $15.39, with fares ranging from -$350.08 to $2020.20 and most falling between $7.90 and $18.20.
+
   ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/b45cd2ba-db49-4f41-a4e4-aa8480a8f012)
 
-3. **Payment Mode:** The majority of transactions (64%) are made with credit cards, followed by cash (36%), with less than 1% involving disputes or no charge.
+5. **Payment Mode:** The majority of transactions (64%) are made with credit cards, followed by cash (36%), with less than 1% involving disputes or no charge.
+   
    ![image](https://github.com/NaithikShetty/NYC-Green-Taxi-Trip-Analysis/assets/66748504/a9bef1f3-a491-4358-a1d4-822f496b7645)
 
 
